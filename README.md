@@ -5,7 +5,7 @@
 ### Our Socials
 #### Luan
 * Github: [Here.](https://github.com/Luumo)
-* LinkedIn: [Here.](https://linkedin.com/in/luan-mollakuqe-85667471/)
+* LinkedIn: [Here.](https://linkedin.com/in/luanmollakuqe)
 
 #### Olle
 * GitHub: [Here.](https://github.com/ollegreen)
