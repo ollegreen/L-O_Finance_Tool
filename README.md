@@ -23,11 +23,11 @@ From deciding how much you would need to add to your portfolio to make it risk a
 2. Buy quantity based on risk assessment of financial asset into current portfolio
 3. Portfolio simulations for reallocation purposes to maximise returns given the amount of risk taken
 
-## The Jupyter Notebook: 
-* https://colab.research.google.com/drive/1UIUQOEJGoGTM1zDMFlIe_bC6y-_u-lcm?usp=sharing
-
 ## Credit
 * Daniel Roos at PyCon Sweden 2019 - https://youtu.be/kBwOy-6CtAQ
+
+#### Link to Google Colab notebook
+* https://colab.research.google.com/drive/1UIUQOEJGoGTM1zDMFlIe_bC6y-_u-lcm?usp=sharing
 
 #### Extra To-Dos
 * Make prettier graphs
