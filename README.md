@@ -4,12 +4,12 @@
 
 ### Our Socials
 #### Luan
-* Github: https://github.com/Luumo
-* LinkedIn: https://linkedin.com/in/luan-mollakuqe-85667471/
+* Github: [Here.](https://github.com/Luumo)
+* LinkedIn: [Here.](https://linkedin.com/in/luan-mollakuqe-85667471/)
 
 #### Olle
-* GitHub: https://github.com/ollegreen
-* LinkedIn: https://linkedin.com/in/ollegreen/
+* GitHub: [Here.](https://github.com/ollegreen)
+* LinkedIn: [Here.](https://linkedin.com/in/ollegreen/)
  
 \
 
