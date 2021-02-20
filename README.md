@@ -1,4 +1,4 @@
-# Investment Tool for Simulation & Risk Assessments
+# Practical Simulation & Risk Analysis Investment Tool
 
 ![Image of graph](https://www.image-illustration.net/wp-content/uploads/2018/01/financial-analysis-minimal-wallpaper.jpg)
 
