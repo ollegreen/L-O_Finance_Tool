@@ -31,11 +31,9 @@ A statistical method to simluate your returns to see what you maximum and minimu
 ![sim1](https://github.com/ollegreen/L-O_Finance_Tool/blob/main/simulation_vis_percentiles.png?raw=true)
 ![Sim2](https://github.com/ollegreen/L-O_Finance_Tool/blob/main/simulation_vis_all.png?raw=true)
 
-\
+<br/><br/>
 
 _______
-
-\
 
 ## Credit
 * A big part of the simulation analysis needs to be credited to Daniel Roos at PyCon Sweden 2019, go check out his amazing talk at: https://youtu.be/kBwOy-6CtAQ
