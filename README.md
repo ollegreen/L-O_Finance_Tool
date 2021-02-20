@@ -23,7 +23,7 @@ Here you are able to analyse if your daily returns looks too similar to each oth
 
 ![efficient frontier](https://static.seekingalpha.com/uploads/2018/8/39433316_15343047158205_rId5_thumb.jpg)
 
-\
+\\
 
 ## 2. Simulate your Returns
 A statistical method to simluate your returns to see what you maximum and minimum returns would be based on historical datapoints. This could give you an indication if you are being more or less risk averse than you would like, where you can adjust accordingly. 
@@ -32,7 +32,9 @@ A statistical method to simluate your returns to see what you maximum and minimu
 ![Sim2](https://github.com/ollegreen/L-O_Finance_Tool/blob/main/simulation_vis_all.png?raw=true)
 
 \
+
 _______
+
 \
 
 ## Credit
