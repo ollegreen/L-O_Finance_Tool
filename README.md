@@ -35,6 +35,8 @@ A statistical method to simluate your returns to see what you maximum and minimu
 
 _______
 
+<br/><br/>
+
 ## Credit
 * A big part of the simulation analysis needs to be credited to Daniel Roos at PyCon Sweden 2019, go check out his amazing talk at: https://youtu.be/kBwOy-6CtAQ
 
